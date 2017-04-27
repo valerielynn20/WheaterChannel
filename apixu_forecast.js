@@ -86,7 +86,7 @@
                 var message = 'q=' + $('#searchValue').val()+'&days=10';   
                 $.ajax({
                       type: 'GET',
-                      url: 'https://api.apixu.com/v1/forecast.json?key=ADD_YOUR_API_KEY_HERE',
+                      url: 'https://api.apixu.com/v1/forecast.json?key=6b409eff3bfb4a0e9b8180326172704',
                       data: message             
                 })
                 .done(function(json){
