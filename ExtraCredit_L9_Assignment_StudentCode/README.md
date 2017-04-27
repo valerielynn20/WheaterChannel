@@ -4,19 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+04/21/17
 
 ### Student Name:  
-(First and Last Name)
+Valerie Smith
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using API to to build a weather web application
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://valerielynn20.github.io/WheaterChannel/.
+
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Location – element that will display the location requested by the user
+2. Request to Apixu API consists of base url and API method. You can make both HTTP or HTTPS request to our API.
+3. Apixu API a free web service that allows users to obtain weather data for developing weather apps
